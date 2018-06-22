@@ -9,8 +9,6 @@ response.write("HERE IS YOUR RESPONSE!!!");
 response.end();
 }
 
-
-
 http.createServer(onRequest).listen(8082);
 //onRequest is the function which takes 2 parameters ;request and response
 console.log("server is now running");

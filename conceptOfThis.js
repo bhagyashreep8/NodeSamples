@@ -1,4 +1,3 @@
-// //concept of this
 var bhagya = {
     printMyName:function () {
         console.log("my name is bhagya");
